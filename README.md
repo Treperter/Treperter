@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Treperter's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Treperter&layout=compact&hide_border=true&langs_count=10)
+<div align="center"> <img src="https://metrics.lecoq.io/Treperter?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
 ![Treperter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treperter&show_icons=true&theme=tokyonight)
 
