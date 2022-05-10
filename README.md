@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Treperter's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Treperter&layout=compact&hide_border=true&langs_count=10)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treperter&show_icons=true&theme=tokyonight)
+![Treperter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treperter&show_icons=true&theme=tokyonight)
 
 ![decription](https://img.shields.io/badge/tools-pycharm-green)
